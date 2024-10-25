@@ -1,6 +1,6 @@
 # Sentiment Analysis and Emotion Detection App
 
-![PROJECT_DISPLAY](project.png)
+![PROJECT_DISPLAY](images/project.png)
 
 ## Overview
 This project uses **sentiment analysis** to detect and classify the emotions conveyed in text inputs. By analyzing user-submitted text, we can identify emotional tones and present a dynamic response. Using advanced embeddings and multi-label classification, this app detects emotions such as **joy**, **sadness**, **anger**, **trust**, and more.
@@ -53,3 +53,8 @@ This project uses **sentiment analysis** to detect and classify the emotions con
     Display Results
 
     Show the top predicted emotions, each visualized with a corresponding GIF image.
+
+
+![PROJECT_DISPLAY](images/arabic.png)
+![PROJECT_DISPLAY](images/german.png)
+![PROJECT_DISPLAY](images/english.png)
